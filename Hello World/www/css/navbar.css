@@ -1,0 +1,42 @@
+#navbar{
+position:absolute;
+width:100%;
+height:70px;
+background:rgba(255,255,255,0.8);
+top:0px;
+}
+
+#titrenav{
+height: auto;
+    left: 50%;
+    margin: 0 0 0 -50px;
+    position: absolute;
+    top: 22px;
+    width: 100px;
+}
+
+#btnleft{
+position:absolute;
+left:15px;
+width:80px;
+height:auto;
+top:27px;
+}
+
+.cnav{
+font-family:Open sans, sans-serif;
+font-weight:400;
+}
+
+.N1{
+color: #662483;
+font-size: 13px;
+}
+
+.N2{
+color: #662483;
+font-size: 16px;
+}
+
+#btnright{
+}
