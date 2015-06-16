@@ -1,0 +1,94 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
+
+body{
+background:#000000
+}
+
+#img {
+    height: 100%;
+    top: 0px;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+.img {
+width:100%;
+height:auto;
+}
+
+#barregauche {
+    background: #662483 none repeat scroll 0 0;
+    left: 0;
+    opacity: 0.95;
+    position: absolute;
+    width: 50px;
+    height: 100%;
+    top:0px;
+}
+
+.Corps{
+font-family:Open sans, sans-serif;
+font-weight:300;
+}
+.P1 {
+    color: #FFFFFF;
+    font-size: 45px;
+}
+.plus {
+    background: rgba(0, 0, 0, 0) url("../img/plus.png") repeat scroll 0 0;
+    height: 40px;
+    left: 4px;
+    position: absolute;
+    top: 8%;
+    width: 40px;
+    border: none;
+}
+.previous {
+    background: rgba(0, 0, 0, 0) url("../img/previous.png") repeat scroll 0 0;
+    height: 40px;
+    left: 4px;
+    position: absolute;
+    top: 8%;
+    width: 40px;
+    border: none;
+}
+#fondextension {
+background:#4f0d6c;
+width:150px;
+height:100%;
+position:absolute;
+left:51px;
+top:0px;
+opacity:0.8;
+}
+
+.none{
+display:none;
+}
+
+.extmenu {
+width:100px;
+height:auto;
+position:absolute;
+top:15px;
+left:30px;
+}
+
+.extension {
+    width: 150px;
+    height: auto;
+}
+
+#extension {
+left:100px;
+position:absolute;
+top:30px;
+}
+
+#cadredrag {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
