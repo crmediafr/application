@@ -53,6 +53,17 @@ font-weight:300;
     width: 40px;
     border: none;
 }
+
+.ok {
+    background: rgba(0, 0, 0, 0) url("../img/next.png") repeat scroll 0 0;
+    height: 40px;
+    left: 4px;
+    position: absolute;
+    bottom: 8%;
+    width: 40px;
+    border: none;
+}
+
 #fondextension {
 background:#4f0d6c;
 width:150px;
